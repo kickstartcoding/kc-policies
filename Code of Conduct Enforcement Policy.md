@@ -15,7 +15,7 @@ When a member of staff receives a report of a violation of the code of conduct t
 3. **Unilaterally take any immediate action necessary to ensure safety and comfort of the reporter**, for example:
     - removing the violator from the class and/or the group chat
     - listening to anything in addition to the above details that the reporter would like to say about the issue
-4. **Report incident to the other staff members**, EXCEPT:
+4. **Report incident to the other staff members, EXCEPT**:
     - if there are any staff the reporter is uncomfortable knowing any information in the report
     - any staff implicated in the report
 5. **Arrange a time to talk with included staff members within 48 hours**
