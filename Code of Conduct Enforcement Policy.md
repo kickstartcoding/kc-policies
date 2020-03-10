@@ -21,7 +21,9 @@ When a member of staff receives a report of a violation of the code of conduct t
 5. Arrange a time to talk with included staff members within 48 hours
     - if it is possible to meet immediately, meet immediately
     - if a time within 48 hours cannot be found, find one as soon as possible and tell the reporter what timeline we will be able to meet on
+
 ## Considerations on what action to take
+
 - How serious was the offense? Examples:
     - An inappropriate joke made privately may just need a private apology and/or verbal warning
     - A similar joke made publicly may require an apology to the entire group
@@ -34,7 +36,9 @@ When a member of staff receives a report of a violation of the code of conduct t
 - Is it a first offense? Has the offender already been told not to do what they did?
     - If so, recommend consequences be escalated from what they were for the previous incident and involve a ban from the space for at least one day
 - If the offense happened in a space not directly associated with us, how will it impact students' experiences inside our spaces?
+
 ## Possible actions
+
 - Verbal warning
 - Require the offender make a private apology
 - Require the offender make a public apology
@@ -44,7 +48,9 @@ When a member of staff receives a report of a violation of the code of conduct t
 - Expel the offender from the program without a refund
 - Specify what the consequences of a repeat offense will be
 - Specify that the consequences of any retaliation against the victim or reporter will be expulsion
+
 ## Upon reacing a decision
+
 - Talk to the reporter and victim first, ask if they feel comfortable with the decision
 - Talk to the offender
 - If you intend to discuss the incident with the broader class/community, ask victim, reporter, and offender if they have any feelings about how it is discussed and/or what information is shared
