@@ -54,6 +54,6 @@ When a member of staff receives a report of a violation of the code of conduct t
 
 - Talk to the reporter and victim first, ask if they feel comfortable with the decision
 - Talk to the offender
-- If you intend to discuss the incident with the broader class/community, ask victim, reporter, and offender if they have any feelings about how it is discussed and/or what information is shared
+- If you intend to discuss the incident with the broader class/community, consider how to share it in a way that preserves people's privacy (for example, keeping people anonymous), and ask victim, reporter, and offender if they have any feelings about how it is discussed and/or what information is shared
 - Discuss the incident with the broader community, if that is what has been decided on
 - Give everyone involved, including the broader community if it is discussed with them, an explicit place to give feedback about how it was handled, and remind them where they can report future issues
