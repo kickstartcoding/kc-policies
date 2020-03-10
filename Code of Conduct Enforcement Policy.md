@@ -32,6 +32,7 @@ When a member of staff receives a report of a violation of the code of conduct t
 - **Does the offense suggest future similar behavior?**
 - **Do we make consequences private or public?**
     - If we deal with it privately, will other people who know about the offense think we did nothing about it and thus were okay with it?
+        - From "How to Respond to Code of Conduct Reports" by Valerie Aurora and Mary Gardiner: `At a minimum, everyone who knows about the violation of the code of conduct should see the community's response to the violation.`
     - If we deal with it publicly, will it put more of a spotlight on it than the victim is comfortable with?
 - **Is it a first offense? Has the offender already been told not to do what they did?**
     - If so, recommend consequences be escalated from what they were for the previous incident and involve a ban from the space for at least one day
