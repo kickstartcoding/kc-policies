@@ -42,16 +42,16 @@ When a member of staff receives a report of a violation of the code of conduct t
 ## Possible actions
 
 - Verbal warning
-- Require the offender make a private apology
-- Require the offender make a public apology
-- Have staff address the issue with the rest of the class — what happened, why it was unacceptable, what we are doing about it, where to direct feedback if students feel we aren't handling it the right way
-- Ban the offender from the next class and/or review session
-- Expel the offender from the program with a prorated refund
-- Expel the offender from the program without a refund
-- Specify what the consequences of a repeat offense will be
-- Specify that the consequences of any retaliation against the victim or reporter will be expulsion
+- Require the offender make a **private apology**
+- Require the offender make a **public apology**
+- **Have staff address the issue with the rest of the class** — what happened, why it was unacceptable, what we are doing about it, where to direct feedback if students feel we aren't handling it the right way
+- **Ban** the offender **from the next class** and/or review session
+- **Expel** the offender from the program **with a prorated refund**
+- **Expel** the offender from the program **without a refund**
+- **Specify** what the **consequences of a repeat offense** will be
+- **Specify** that the **consequences of any retaliation** against the victim or reporter will be **expulsion**
 
-## Upon reacing a decision
+## Upon reaching a decision
 
 - Talk to the reporter and victim first, ask if they feel comfortable with the decision
 - Talk to the offender
