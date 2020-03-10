@@ -36,6 +36,8 @@ When a member of staff receives a report of a violation of the code of conduct t
 - Is it a first offense? Has the offender already been told not to do what they did?
     - If so, recommend consequences be escalated from what they were for the previous incident and involve a ban from the space for at least one day
 - If the offense happened in a space not directly associated with us, how will it impact students' experiences inside our spaces?
+- What will our actions say to possible future victims thinking about whether or not to report similar behavior in the future?
+- Is the action we take more likely to make our community feel welcoming to people who are okay with this behavior or to people who are not okay with this behavior?
 
 ## Possible actions
 
