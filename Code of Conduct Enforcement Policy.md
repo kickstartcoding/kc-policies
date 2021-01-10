@@ -25,8 +25,8 @@ When a member of staff receives a report of a violation of the code of conduct t
 ## Considerations on what action to take
 
 - **How serious was the offense?** Examples:
-    - An inappropriate joke made privately may just need a private apology and/or verbal warning
-    - A similar joke made publicly may require an apology to the entire group
+    - An inappropriate joke made privately may just need a private verbal warning and an explanation of how consequences will escalate for repeat violations
+    - A similar joke made publicly may require that same warning and consequence explanation made publicly
     - A repeat offense of any sort should be considered serious and result in at least a one-day ban
     - An assault should result in expulsion
 - **Does the offense suggest future similar behavior?**
